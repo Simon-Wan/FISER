@@ -1,5 +1,5 @@
-# Model for HandMeThat Benchmark
-This is the Transformer-based model designed for HandMeThat dataset (version 2).
+# FISER: Follow Instructions with Social and Embodied Reasoning
+This is the Transformer-based model designed for HandMeThat dataset (version 2). See [project page](https://sites.google.com/view/fiser-hmt/).
 
 ## Prerequisite
 Please refer to HandMeThat benchmark. Download the version 2 dataset.
