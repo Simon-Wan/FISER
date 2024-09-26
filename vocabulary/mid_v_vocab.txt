@@ -1,0 +1,11 @@
+none
+inside
+ontop
+clean
+sliced
+open
+closed
+cooked
+frozen
+toggled
+holding
